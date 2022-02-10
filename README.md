@@ -14,7 +14,7 @@ I decided to start with this programming language for two reasons:
 
 If you are unsure about JS (I was), I strongly recommend watching this video on Youtube:
 
-[3 Reasons why you SHOULDN’T become a full-stack developer (and what you should study instead)](https://www.youtube.com/watch?v=vgEVfaDmfTk)
+▶️ [3 Reasons why you SHOULDN’T become a full-stack developer (and what you should study instead)](https://www.youtube.com/watch?v=vgEVfaDmfTk) by Devslopes.
 
 
 And before starting, I beg you to google about these two terms: 
