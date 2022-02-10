@@ -2,7 +2,7 @@
 
 I’m currently learning JS online.
 
-I decided to start with this language for two reasons:
+I decided to start with this programming language for two reasons:
 
 - the obvious one, I'm interested in web development (full stack);
 - as a junior developer, I want to get a job.
