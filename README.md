@@ -28,7 +28,7 @@ So, like the ***Super Size Me*** movie, I will follow this "diet" for  3 (three)
 
 To get into JS, I chose these two courses on Udemy by ***Jonas Schmedtmann***:
 
-- 🎖️ ***The Complete JavaScript Course 2022: From Zero to Expert!*** (⭐4.7  stars) 
+- 🎖️ ***The Complete JavaScript Course 2022: From Zero to Expert*** (⭐4.7  stars) 
 - 🎖️ ***Build Responsive Real-World Websites with HTML and CSS***    (⭐4.8  stars) 
 
 At this moment, I am interested in becoming a front-end developer, then libraries like [node.js](https://nodejs.org/en/) and [jQuery](https://jquery.com/) I will study later.
