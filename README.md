@@ -14,11 +14,10 @@ If you are unsure about JS (I was), I strongly recommend watching this video on 
 
 And before starting, I beg you to google about these two terms: 
 
-- ***"Tutorial Hell"*** 🔥
+- ***"Tutorial Hell"*** 🔥  Maybe, You (like me) got stuck in Tutorial Hell 😱 !!!
 
-- ***"Imposter Syndrome"***
+- ***"Imposter Syndrome"*** I do ~~not~~ belong here!
 
-Maybe, You (like me) got stuck in Tutorial Hell 😱 !!!
 
 So, like the ***Super Size Me*** movie, I will follow this "diet" for  3 (three) months and compare my results at the end. 
 
