@@ -1,5 +1,6 @@
 
-![banner](https://user-images.githubusercontent.com/94420252/153517786-ea15024c-9403-4844-8be1-53fbe7f02b7d.png)
+![banner](https://user-images.githubusercontent.com/94420252/153517918-b77102a2-72ca-4357-8b9d-36264dddfffa.png)
+
 
 
 ### Hi there 👋, this is Lucas de Lima
