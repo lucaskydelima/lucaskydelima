@@ -11,5 +11,5 @@
 [![Github Badge](https://img.shields.io/badge/-lucaskydelima-grey?style=flat&logo=github&logoColor=white&link=https://github.com/lucaskydelima)](https://github.com/lucaskydelima) 
 
 
-I’m currently learning Java online at Alura.
+I’m currently learning Operation Research (OR) and IA.
 
