@@ -1,5 +1,5 @@
 
-![banner](https://user-images.githubusercontent.com/94420252/153517918-b77102a2-72ca-4357-8b9d-36264dddfffa.png)
+![banner](C://Users//lucaskydelima//Downloads//nft bored grizzly bear as an astronaut, digital art _ DALL·E.html)
 
 
 
