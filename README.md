@@ -1,5 +1,5 @@
 
-### Hi there 👋, this is Lucas de Lima
+### Hi everyone 👋, this is Lucas de Lima
 
 
 [![Gmail Badge](https://img.shields.io/badge/-lucaskydelima@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lucaskydelima@gmail.com)](mailto:lucaskydelima@gmail.com) 
