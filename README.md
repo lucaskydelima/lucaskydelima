@@ -1,8 +1,4 @@
 
-![banner](![DALL·E 2023-02-17 23 04 27 - nft bored grizzly bear as an astronaut, digital art](https://user-images.githubusercontent.com/94420252/219826233-884cad18-2c86-4bfa-925f-6e50ce8ef6ab.png)
-
-
-
 ### Hi there 👋, this is Lucas de Lima
 
 
