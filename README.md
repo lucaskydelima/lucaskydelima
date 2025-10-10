@@ -15,11 +15,11 @@
 ### 🚀 Stack e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,express,mongodb,mysql,git,github,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,mysql,git,github,html,css,figma" />
 </p>
 
 <p align="center">
-  <b>Principais Tecnologias:</b> JavaScript | Node.js | Express | React | MongoDB | MySQL | Python | SharePoint | Power BI | RStudio  
+  <b>Principais Tecnologias:</b> JavaScript | Node.js | Express | React | MongoDB | MySQL | SharePoint | Power BI   
 </p>
 
 ---
