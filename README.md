@@ -27,7 +27,7 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasDeLima&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Lucas" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucaskydelima&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub de Lucas" height="165"/>
 </p>
 
 ---
