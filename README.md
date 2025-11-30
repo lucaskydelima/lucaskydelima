@@ -26,9 +26,7 @@
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucaskydelima&show_icons=true&theme=tokyonight)
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucaskydelima&show_icons=true&theme=tokyonight)
 
 ---
 
