@@ -15,7 +15,7 @@
 ### 🚀 Stack e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,mysql,git,github,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,mysql,git,github,html,css,docker" />
 </p>
 
 <p align="center">
