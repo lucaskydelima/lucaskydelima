@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b>Principais Tecnologias:</b> JavaScript | Node.js | Express | React | MongoDB | MySQL | SharePoint | Power BI   
+  <b>Principais Tecnologias:</b> JavaScript | Node.js | Express | React | MongoDB | MySQL | Docker | Kafka   
 </p>
 
 ---
