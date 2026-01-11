@@ -1,39 +1,39 @@
-<h1 align="center">👋 Olá, eu sou o Lucas de Lima</h1>
+<h1 align="center">👋 Hi, I'm Lucas R. de Lima</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full Stack | Entusiasta de Arquitetura de Software | Focado em Soluções Escaláveis</strong>
+  <strong>Full Stack Developer | Software Architecture Enthusiast | Focused on Scalable Solutions</strong>
 </p>
 
 <p align="center">
-  💻 Trabalho com <b>JavaScript</b>, <b>Node.js</b> e <b>React</b> <br/>
-  ⚙️ Experiência em <b>APIs REST</b>, <b>MongoDB</b> e <b>Arquitetura MERN (MongoDB, Express, React, Node)</b> <br/>
-  📚 Sempre aprendendo e aprimorando habilidades em <b>Clean Code</b> e <b>Domain-Driven Design</b>.
+  💻 I work with <b>JavaScript</b>, <b>Node.js</b>, and <b>React</b> <br/>
+  ⚙️ Experience with <b>REST APIs</b>, <b>MongoDB</b>, and <b>MERN Architecture (MongoDB, Express, React, Node)</b> <br/>
+  📚 Constantly learning and improving skills in <b>Clean Code</b> and <b>Domain-Driven Design</b>. </p>.
 </p>
 
 ---
 
-### 🚀 Stack e Ferramentas
+### 🚀 Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,mysql,git,docker,html,css,kafka" />
 </p>
 
 <p align="center">
-  <b>Principais Tecnologias:</b> JavaScript | Node.js | Express | React | MongoDB | MySQL | Docker | Kafka   
+  <b>Main Technologies:</b> JavaScript | Node.js | Express | React | MongoDB | MySQL | Docker | Kafka   
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-- 🔭 Atualmente desenvolvendo projetos com **arquitetura MERN**  
-- 🧩 Interesse em **integração entre frontend e backend** de forma desacoplada  
-- 💬 Curioso sobre **boas práticas de engenharia de software e automação de processos**  
-- 🌱 Sempre aprimorando conhecimentos em **DevOps e escalabilidade**
+- 🔭 Currently developing projects using **MERN architecture**  
+- 🧩 Interested in **decoupled integration** between frontend and backend  
+- 💬 Curious about software engineering best practices and process automation  
+- 🌱 Continuously improving knowledge in DevOps and scalability
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="center">
   <a href="mailto:lucaskydelima@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
