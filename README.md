@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Lucas R. de Lima</h1>
+<h1 align="center">Hi, I'm Lucas R. de Lima</h1>
 
 <p align="center">
   <strong>Full Stack Developer | Software Architecture Enthusiast | Focused on Scalable Solutions</strong>
@@ -7,7 +7,7 @@
 <p align="center">
   💻 I work with <b>JavaScript</b>, <b>Node.js</b>, and <b>React</b> <br/>
   ⚙️ Experience with <b>REST APIs</b>, <b>MongoDB</b>, and <b>MERN Architecture (MongoDB, Express, React, Node)</b> <br/>
-  📚 Constantly learning and improving skills in <b>Clean Code</b> and <b>Domain-Driven Design</b>.
+  📚 Constantly learning and improving skills in <b>Clean Code</b> and <b>Domain-Driven Design</b>
 </p>
 
 ---
