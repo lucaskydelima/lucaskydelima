@@ -43,7 +43,7 @@
 
 ---
 
-<p align="center">✨ “Código limpo é aquele que você se orgulha de ler.” ✨</p>
+<p align="center">✨ “COMPLEXITY is a place to hide BUT simplicity is NAKED” ✨</p>
 
 
 
