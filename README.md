@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  💻 I work with <b>JavaScript</b>, <b>Node.js</b>, and <b>React</b> <br/>
-  ⚙️ Experience with <b>REST APIs</b>, <b>MongoDB</b>, and <b>MERN Architecture (MongoDB, Express, React, Node)</b> <br/>
-  📚 Constantly learning and improving skills in <b>Systems Thinking</b> and <b>Domain-Driven Design</b>
+  I work with <b>JavaScript</b>, <b>Node.js</b>, and <b>React</b> <br/>
+  Experience with <b>REST APIs</b>, <b>MongoDB</b>, and <b>MERN Architecture (MongoDB, Express, React, Node)</b> <br/>
+  Constantly learning and improving skills in <b>Systems Thinking</b> and <b>Domain-Driven Design</b>
 </p>
 
 ---
 
-### 🚀 Stack & Tools
+### Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,mongodb,mysql,git,docker,html,css,kafka" />
@@ -24,16 +24,16 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🔭 Currently developing projects using **MERN architecture**  
-- 🧩 Interested in **decoupled integration** between frontend and backend  
-- 💬 Curious about software engineering best practices and process automation  
-- 🌱 Continuously improving knowledge in DevOps and scalability
+-  Currently developing projects using **MERN architecture**  
+-  Interested in **decoupled integration** between frontend and backend  
+-  Curious about software engineering best practices and process automation  
+-  Continuously improving knowledge in DevOps and scalability
 
 ---
 
-### 📫 Contact
+### Contact
 
 <p align="center">
   <a href="mailto:lucaskydelima@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
