@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas R. de Lima</h1>
 
 <p align="center">
-  <strong>Full Stack Developer | Software Architecture Enthusiast | Focused on Scalable Solutions</strong>
+  <strong>Full Stack Developer | Focused on Scalable Solutions</strong>
 </p>
 
 <p align="center">
